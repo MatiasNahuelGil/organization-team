@@ -1,0 +1,23 @@
+.form__container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 0;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.form__container h2{
+    font-weight: 400;
+    font-size: var(--medium-sizeFont);
+    color: var(--title-color);
+}
+
+.form__container form{
+    max-width: 60%;
+    background-color: #f7f7f7;
+    border-radius: 20px;
+    padding: 8px 100px;
+    box-shadow: 7px 7px 15px rgba(0,0,0,0.08);
+}
+
+

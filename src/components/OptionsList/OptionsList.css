@@ -1,0 +1,22 @@
+.options__list{
+    margin: 24px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.options__list label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: 600;  
+}
+   
+.options__list select{
+    width: 100%;
+    padding: 30px 20px;
+    background-color: var(--white-color);
+    box-shadow:  10px 10px 30px rgba(0, 0, 0, 0.6);
+    border: none;
+    outline-color: var(--first-color);
+    font-size: 16px;
+
+}

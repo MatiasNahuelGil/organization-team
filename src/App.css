@@ -1,0 +1,40 @@
+:root{
+    /*Colores principales */
+
+    --first-color  : #6278F7;
+    --second-color : #95FFD4;
+    --third-color  : #F2F2F2;
+
+
+    /*Otros colores */
+
+    --title-color : #212121;
+    --white-color : #ffffff;
+    --button-hoverColor : #95FFD4;
+
+    /*Fondo */
+
+    --bg-firstColor : #D9F7E9;
+    --bg-secondColor : #E8F8FF;
+    --bg-thirdColor : #F0F8E2;
+    --bg-fourthColor : #FDE7E8;
+    --bg-fifthColor : #FAE9F5;
+    --bg-sixthColor : #FFF5D9;
+    --bg-seventhColor : #FFEEDF;
+
+
+    /*Destacados*/
+    --hl-firstColor : #57C278 ;
+    --hl-secondColor : #82CFFA;
+    --hl-thirdColor : #A6D157;
+    --hl-fourthColor : #E06B69;
+    --hl-fifthColor : #DB6EBF;
+    --hl-sixthColor : #FFBA05;
+    --hl-seventhColor : #FF8A29;
+
+    /*Tamaños de fuentes */
+
+    --medium-sizeFont : 32px;
+
+
+};
