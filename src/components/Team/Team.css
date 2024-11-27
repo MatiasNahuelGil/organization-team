@@ -15,12 +15,19 @@
 
 .inputColor {
     position: absolute;
-    top: 20px;
-    right: 50px;
+    bottom: 15px;
+    right: 40%;
 }
 
 .collaborators{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+
+@media (min-width: 416px){
+    .inputColor{
+        top: 20px;
+        right: 10px;
+    }
 }

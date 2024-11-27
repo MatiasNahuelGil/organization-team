@@ -1,5 +1,5 @@
 .button{
-    background-color: var(--first-color);
+   background-color: var(--first-color);
     border-radius: 10px;
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
@@ -7,9 +7,16 @@
     border: none;
     margin: 32px 0;
     cursor: pointer;
-    color: var(--white-color);
+    color: var(--white-color); 
+    
 }
+
+
+
 
 .button:hover{
     color: var(--button-hoverColor);
 }
+
+
+
